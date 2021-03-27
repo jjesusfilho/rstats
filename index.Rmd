@@ -1,0 +1,5 @@
+---
+title: "Jurimetria com R"
+site: distill::distill_website
+listing: posts
+---

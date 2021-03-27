@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-27T08:40:22-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Jurimetria com R",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-03-27T08:40:23-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
